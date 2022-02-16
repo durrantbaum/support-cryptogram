@@ -1,0 +1,28 @@
+queue  pair-programming   advisor meetings   message  instructor  or  mentor
+a = q
+b = s
+c = e
+d = r
+e = d
+f = g
+g
+h
+i = m
+j = u
+k = c
+l = p
+m
+n
+o
+p = i
+q = n
+r
+s
+t
+u = t
+v
+w = v
+x
+y = o
+z = a
+
